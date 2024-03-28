@@ -1,10 +1,11 @@
 {
-  "name": "zooq_data",
+  "name": "render-json-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -13,9 +14,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JyotiPrakash222/zooq_data.git/issues"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-alpha.23"
+    "json-server": "^0.17.4"
   }
 }

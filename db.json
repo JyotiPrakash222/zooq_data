@@ -1,0 +1,146 @@
+{
+  "seller": [
+    {
+      "id": "9819",
+      "name": "JP",
+      "email": "jp@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "ffa7",
+      "name": "JP",
+      "email": "jp@gmail.com",
+      "password": "13455"
+    },
+    {
+      "id": "7447",
+      "name": "JP",
+      "email": "jp@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "1f8f",
+      "name": "som",
+      "email": "som@gmail.com",
+      "password": "123"
+    }
+  ],
+  "user": [
+    {
+      "id": "245b",
+      "name": "jp",
+      "email": "jp@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "631e",
+      "name": "John",
+      "email": "vine@gmail.com",
+      "password": "333"
+    },
+    {
+      "id": "4cb5",
+      "name": "John",
+      "email": "thoren@gmail.com",
+      "password": "888"
+    }
+  ],
+  "cart": [
+    {
+      "id": "e00b",
+      "name": "Michael Kors Classic Luxury Overcoat",
+      "price": "85000",
+      "category": "Men wear",
+      "url": "https://images.unsplash.com/photo-1619603364937-8d7af41ef206?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "quantity": 1,
+      "userId": "245b",
+      "productId": "5"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Nike Air MX Super 2500-Red",
+      "price": 7999,
+      "category": "Shoe",
+      "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "2",
+      "name": "Nike Air MX 2000-white",
+      "price": "5990",
+      "category": "Shoe",
+      "url": "https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "3",
+      "name": "Men's Rolex Watch Oyster",
+      "price": "96000",
+      "category": "Watch",
+      "url": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "4",
+      "name": "Gucci GG0027O 001 Brown",
+      "price": "85000",
+      "category": "Sunglass",
+      "url": "https://images.unsplash.com/photo-1559070081-648fb00b2ed1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "5",
+      "name": "Michael Kors Classic Luxury Overcoat",
+      "price": "85000",
+      "category": "Men wear",
+      "url": "https://images.unsplash.com/photo-1619603364937-8d7af41ef206?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "6",
+      "name": "Fossil Analogue Watch",
+      "price": "22399",
+      "category": "Watch",
+      "url": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?q=80&w=1860&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "7",
+      "name": "Lacoste pure Cutton T-shirt",
+      "price": "6750",
+      "category": "Men wear",
+      "url": "https://plus.unsplash.com/premium_photo-1707932495000-5748b915e4f2?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "8",
+      "name": "Dolce & Gabbana Slim-Fit Jeans",
+      "price": "26750",
+      "category": "Men wear",
+      "url": "https://images.unsplash.com/photo-1670433714265-6792054efb9f?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "9",
+      "name": "Tissot Women watch",
+      "price": "21750",
+      "category": "Watch",
+      "url": "https://images.unsplash.com/photo-1516700829972-65a01767c294?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "10",
+      "name": "LUIS VUITTON Men's Jacket",
+      "price": "57950",
+      "category": "Men Wear",
+      "url": "https://images.unsplash.com/photo-1539042380473-e548736ea2c4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "11",
+      "name": "Athena Women Black Overcoat",
+      "price": "51750",
+      "category": "Women Wear",
+      "url": "https://images.unsplash.com/photo-1629726249946-1f8a8d151599?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "12",
+      "name": "Ray-ban Women Sunglass",
+      "price": "31999",
+      "category": "Sunglass",
+      "url": "https://images.unsplash.com/photo-1586907835000-f692bbd4c9e0?q=80&w=1922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
